@@ -1,4 +1,4 @@
-// configure API access
+// configure API access (user with AmazonEC2FullAccess)
 provider "aws" {
   access_key = "ACCESS_KEY_HERE"
   secret_key = "SECRET_KEY_HERE"
