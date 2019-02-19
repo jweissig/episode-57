@@ -28,25 +28,25 @@ git clone https://github.com/jweissig/episode-57.git
 
 ```
 cd example_1
-../terraform init
-../terraform plan
-../terraform apply
+./terraform init
+./terraform plan
+./terraform apply
 check the aws console
 edit the main.tf file and uncomment the tag
-../terraform apply
-../terraform show
+./terraform apply
+./terraform show
 check the aws console
-../terraform destroy
+./terraform destroy
 ```
 
 ## Example 2
 
 ```
 cd example_2
-../terraform init
-../terraform plan
-../terraform apply
-../terraform show
+./terraform init
+./terraform plan
+./terraform apply
+./terraform show
 check the aws console
-../terraform destroy
+./terraform destroy
 ```
