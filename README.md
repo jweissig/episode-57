@@ -18,7 +18,7 @@ Test Terraform
 Terraform v0.11.11
 ```
 
-git clone
+git clone https://github.com/jweissig/episode-57.git
 
 ## Example 1
 
