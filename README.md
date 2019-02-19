@@ -1,4 +1,4 @@
-# Simple Terraform Examples
+# Terraform Examples
 
 [#57 - Terraform (screencast)](https://sysadmincasts.com/episodes/57-terraform)
 
