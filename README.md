@@ -18,7 +18,11 @@ Test Terraform
 Terraform v0.11.11
 ```
 
+Get the examples
+
+```
 git clone https://github.com/jweissig/episode-57.git
+```
 
 ## Example 1
 
